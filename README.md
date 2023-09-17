@@ -24,8 +24,6 @@ List the C programs included in your repository. You can use bullet points to pr
 
 ## Getting Started
 
-If someone wants to use or explore your C programs, they should know how to get started. Provide step-by-step instructions on how to clone your repository, compile the programs, and run them. You can use HTML code to display a Git clone box:
-
 
 <pre>
     <code>
