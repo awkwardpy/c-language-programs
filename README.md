@@ -11,7 +11,22 @@ To explore and run these C language programs on your computer, follow these simp
 
 # Clone the Repository: Start by cloning this repository to your local machine using the following command:
 
-$ git clone https://github.com/awkwardpy/c-language-programs.git
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Git Clone Box</title>
+</head>
+<body>
+    <h2>Clone this repository</h2>
+    <pre>
+        <code>
+            git clone https://github.com/your-username/your-repository.git
+        </code>
+    </pre>
+    <p>Run the above command to clone the repository to your local machine.</p>
+</body>
+</html>
+
 
 Install a C Compiler: If you don't have a C compiler installed, you'll need one. For Windows, you can use MinGW, and for macOS and Linux, you can use GCC. Install the appropriate compiler for your platform.
 
